@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-spring-application" />
+        <module name="springboot-study-autowired" />
+        <module name="springboot-study-data" />
+        <module name="springboot-study-data-jpa" />
+        <module name="springboot-study-reactive" />
+        <module name="springboot-study-web" />
+        <module name="springboot-study-webflux" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-spring-application" target="1.8" />
+      <module name="springboot-study-autowired" target="1.8" />
+      <module name="springboot-study-data" target="1.8" />
+      <module name="springboot-study-data-jpa" target="1.8" />
+      <module name="springboot-study-reactive" target="1.8" />
+      <module name="springboot-study-web" target="1.8" />
+      <module name="springboot-study-webflux" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-spring-application" options="-parameters" />
+      <module name="springboot-study-autowired" options="-parameters" />
+      <module name="springboot-study-data" options="-parameters" />
+      <module name="springboot-study-data-jpa" options="-parameters" />
+      <module name="springboot-study-reactive" options="-parameters" />
+      <module name="springboot-study-web" options="-parameters" />
+      <module name="springboot-study-webflux" options="-parameters" />
+    </option>
+  </component>
+</project>

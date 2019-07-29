@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringBoot-dive-in.iml" filepath="$PROJECT_DIR$/.idea/SpringBoot-dive-in.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-spring-application/spring-boot-spring-application.iml" filepath="$PROJECT_DIR$/spring-boot-spring-application/spring-boot-spring-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-study-autowired/springboot-study-autowired.iml" filepath="$PROJECT_DIR$/springboot-study-autowired/springboot-study-autowired.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-study-data/springboot-study-data.iml" filepath="$PROJECT_DIR$/springboot-study-data/springboot-study-data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-study-data-jpa/springboot-study-data-jpa.iml" filepath="$PROJECT_DIR$/springboot-study-data-jpa/springboot-study-data-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-study-reactive/springboot-study-reactive.iml" filepath="$PROJECT_DIR$/springboot-study-reactive/springboot-study-reactive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-study-web/springboot-study-web.iml" filepath="$PROJECT_DIR$/springboot-study-web/springboot-study-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-study-webflux/springboot-study-webflux.iml" filepath="$PROJECT_DIR$/springboot-study-webflux/springboot-study-webflux.iml" />
+    </modules>
+  </component>
+</project>
